@@ -15,6 +15,7 @@
 //APP.SecondCtrl = function ($scope){
 //	scope.message = {sentence: 'second controler'};
 //};
+//
 
 (function() {
 
